@@ -15,7 +15,7 @@ var config = {
         "Akshita~~"
     ],
     imgs: {
-        "My dear friend": "./imgs/xiaokeai.png",
+        "My dear friend": "./imgs/xiaokeai.jpg",
     },
     desc: {
         turn_on: "Begin",
