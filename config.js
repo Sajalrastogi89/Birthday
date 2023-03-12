@@ -3,7 +3,7 @@ var config = {
         "Here's to you, my beloved cutie pie",
         "Today is your birthday",
         "This is our third birthday together",
-        "Do you remember we celebrated last year at Wang Po hot pot?"
+        "Do you remember we celebrated last year at Wang Po hot pot?",
         "This year, let's indulge in even more delicious food",
         "I'll make sure to feed my adorable little piggy until you're satisfied",
         "And then take you away in my arms",
