@@ -17,7 +17,7 @@ var config = {
         "Saloni~~"
     ],
     imgs: {
-        "My dear friend": "./imgs/xiaokeai.jpg",
+        "My dear friend": "./imgs/Screenshot 2023-08-31 133120.png",
     },
     desc: {
         turn_on: "Begin",
