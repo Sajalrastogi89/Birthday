@@ -11,8 +11,9 @@ var config = {
         "Your humility and authenticity are rare and treasured.",
         "Among the well-wishers, there's one admirer too.",
         "Once again, happy birthday my dear friend! 🌹",
-        "May all your dreams come true and may this year bring you endless joy and success. Enjoy your day to the fullest!",
+        "May all your dreams come true and may this year bring you endless joy and success.",
         "The heart holds beautiful feelings, waiting for the right time. ❤️",
+        "Enjoy your day to the fullest!",
         "Saloni~~"
     ],
     imgs: {
